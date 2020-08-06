@@ -2,6 +2,10 @@
 
 # Cài đặt trên CentOS 7
 
+## Yêu cầu
+
+- Đã cài smokeping từ trước
+
 ## Cài đặt gói cpan 
 
 ```sh
