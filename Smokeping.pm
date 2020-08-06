@@ -1949,7 +1949,6 @@ DOC
                     my $my_address = hostname();
                     my $default_telegram = <<DOC;
 ```
-Telegram Message
 [SmokeAlert] <##ALERT##> <##WHAT##> on <##LINE##>
 
 Send notify from <##ADDRESS##>
